@@ -1,3 +1,3 @@
 # ClickForge
 
-An AI thumbnail generator
+An AI Thumbnail Generator
