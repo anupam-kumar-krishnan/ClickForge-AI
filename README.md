@@ -1,4 +1,4 @@
-# ClickForge
+# _ClickForge_
 
 
 An AI Thumbnail Generator
